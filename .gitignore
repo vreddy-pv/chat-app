@@ -1,0 +1,10 @@
+# dependencies
+__pychache__/
+
+# claude workspace files
+.venv/
+
+node_modules/
+
+.env
+
